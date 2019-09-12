@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demos on Shi.bro的博客</title>
-    <link>http://www.sszblog.com/demo/</link>
+    <link>http://www.sszblog.xyz/demo/</link>
     <description>Recent content in Demos on Shi.bro的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 11 Sep 2019 20:39:16 +0800</lastBuildDate>
     
-	<atom:link href="http://www.sszblog.com/demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.sszblog.xyz/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demo2</title>
-      <link>http://www.sszblog.com/demo/demo/</link>
+      <link>http://www.sszblog.xyz/demo/demo/</link>
       <pubDate>Wed, 11 Sep 2019 20:39:16 +0800</pubDate>
       
-      <guid>http://www.sszblog.com/demo/demo/</guid>
+      <guid>http://www.sszblog.xyz/demo/demo/</guid>
       <description>#markdown demo
 标题DEMO 一级标题 二级标题 三级标题 四级标题 五级标题 段落DEMO 这是段落的DEMO
 这是段落的DEMO
@@ -26,10 +26,10 @@
     
     <item>
       <title>Demo2</title>
-      <link>http://www.sszblog.com/demo/demo2/</link>
+      <link>http://www.sszblog.xyz/demo/demo2/</link>
       <pubDate>Wed, 11 Sep 2019 20:39:16 +0800</pubDate>
       
-      <guid>http://www.sszblog.com/demo/demo2/</guid>
+      <guid>http://www.sszblog.xyz/demo/demo2/</guid>
       <description></description>
     </item>
     
